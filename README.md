@@ -1,4 +1,4 @@
-# simple_lightbox.js
+# simple-lightbox.js
 
 <h3>轻量</h3>
 这是一个用纯原生js编写的一个lightbox插件，无需引用过多的css，你仅仅需要引入这个js文件即可
