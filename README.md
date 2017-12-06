@@ -3,6 +3,7 @@
 <h3>轻量</h3>
 这是一个用纯原生js编写的一个lightbox插件，无需引用过多的css，你仅仅需要引入这个js文件即可
 
+![示例](https://github.com/aushion/markdownPictures/blob/master/TIM%E6%88%AA%E5%9B%BE20171206150822.png)
 <!-- ![image](https://github.com/flouthoc/Uglipop.js/blob/master/shot.png) -->
 
 <h3>如何调用</h3>
