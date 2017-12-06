@@ -28,7 +28,7 @@
         imgTag.id = 'imgTag';
         mask.id = 'mask';
         //为相框和遮罩层设置样式
-        imgWrapper.setAttribute('style', 'position:absolute;top:50%;left:50%;width:0;transform:translate(-50%,-50%);z-index: 100;transition:all 1s;cursor:pointer;box-shadow: 0 0 3.125em rgba( 255, 255, 255, .75 );');
+        imgWrapper.setAttribute('style', 'position:absolute;top:50%;left:50%;width:0;transform:translate(-50%,-50%);z-index: 100;transition:all 1s;cursor:pointer;box-shadow: rgba(255, 255, 255, 0.8) 0px 0px 1em 8px;');
         mask.setAttribute('style', 'position:absolute;top:0;left:0;width:100%;height:100%;z-index:99;background:rgba(0,0,0,.8);');
         //初始状态遮罩层和相框均设置为隐藏不显示
         mask.style.display = 'none';
