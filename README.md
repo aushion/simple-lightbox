@@ -6,12 +6,14 @@
 <!-- ![image](https://github.com/flouthoc/Uglipop.js/blob/master/shot.png) -->
 
 <h3>如何调用</h3>
-```html
+
+~~~html
   <div class="test">
     <img src="1.jpg">
     <img src="2.jpg">
-  </div>
-```
+  </div>
+~~~
+
 ```javascript
    <script>
       previewImage('.test')
